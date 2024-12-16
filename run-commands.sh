@@ -1,6 +1,8 @@
 #!/bin/bash
 ##Find some one liner command output
 ## sshpass is needed on server from where you are running the script
+## ./run-commands.sh hostname
+## run-commands.sh df -h
 
 command="$*"
 
