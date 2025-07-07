@@ -16,6 +16,6 @@ then
                 echo "$out"
         done
 else
-        echo "You haven't entered any command please run ./info command"
+        echo "You haven't entered any command please run ./run-commands.sh command"
 
 fi
